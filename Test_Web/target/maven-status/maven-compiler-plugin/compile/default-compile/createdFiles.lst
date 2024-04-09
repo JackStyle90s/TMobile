@@ -1,0 +1,6 @@
+pageObjects\BasketPage.class
+pageUtils\PageUtils.class
+pageObjects\HomePage.class
+pageObjects\ProductPage.class
+pageObjects\MainMenu.class
+pageObjects\ProductListPage.class

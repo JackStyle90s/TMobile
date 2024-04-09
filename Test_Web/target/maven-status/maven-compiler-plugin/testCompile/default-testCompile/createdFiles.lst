@@ -1,0 +1,4 @@
+stepDefinitions\WybranieTelefonuZListyOfert.class
+baseTest\BaseTest.class
+testRunner\TestRunner.class
+hooks\Hooks.class
